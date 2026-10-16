@@ -1,0 +1,13 @@
+# Binários e arquivos de objetos
+build/
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDEs
+.idea/
+
+# Arquivos de cache da consulta ViaCEP
+*.json
